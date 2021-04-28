@@ -9,4 +9,7 @@ def square(t):
 bob = turtle.Turtle()
 square(bob)
 
+alice = turtle.Turtle()
+square(alice)
+
 turtle.mainloop()
