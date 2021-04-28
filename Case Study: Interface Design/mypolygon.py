@@ -12,9 +12,9 @@ def polygon(t, n, length):
         t.lt(angle)
 
 bob = turtle.Turtle()
-polygon(bob, 7, 70)
+polygon(bob, n=7, length=70)
 
 alice = turtle.Turtle()
-square(alice, 100)
+square(alice, length=100)
 
 turtle.mainloop()
