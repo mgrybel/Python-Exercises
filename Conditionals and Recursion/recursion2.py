@@ -6,4 +6,4 @@ def print_n(s, n):
     print(s)
     print_n(s, n-1)
 
-print_n('Hello', 5)
+print_n(s='Hello', n=5)
