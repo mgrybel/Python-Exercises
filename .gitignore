@@ -1,2 +1,4 @@
-Dictionaries/__pycache__/histogram.cpython-37.pyc
+.DS_Store
+.idea
 *.pyc
+venv
